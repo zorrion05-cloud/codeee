@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/1433480652682035244/1446699573681590435/IMG_9510.gif?ex=6934ef78&is=69339df8&hm=d30a9cbdd1e1c401a39f560d0eec1fc4abc0abe2ae9c2a1b5930b91942a66cb9);
 
   /*
     Main Theme Color
